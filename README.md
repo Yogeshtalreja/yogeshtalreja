@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshtalreja&theme=light)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yogeshtalreja)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshtalreja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
