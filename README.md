@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Here is My Protfolio
-#### https://yogesh.my.canva.site/
+#### https://yogeshtalreja.netlify.app/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshtalreja&theme=light)
 
